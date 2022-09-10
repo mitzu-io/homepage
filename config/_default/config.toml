@@ -1,18 +1,12 @@
 ######################## default configuration ####################
-baseURL = "https://demo.gethugothemes.com/bigspring/site/"
-title = "Bigspring - Premium SAAS Landing Hugo Theme"
+baseURL = "https://mitzu.io"
+title = "Mitzu - Product Analytics Over Your Data Warehouse"
 theme = ["bigspring"]
-# Default time zone for time stamps; use any valid [tz database name](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)
 timeZone = "UTC"
-# post pagination
-paginate = "6" # see https://gohugo.io/extras/pagination/
-# post excerpt
-summaryLength = "10" # see https://gohugo.io/content-management/excerpts/
-# google analytics
+paginate = "6" 
+summaryLength = "10"
 googleAnalytics = "" # example: UA-123-45, for more info, read the article https://support.google.com/analytics/answer/1008080?hl=en
-# disqus short name
 disqusShortname = "themefisher-template" # we use disqus to show comments in blog posts . To install disqus please follow this tutorial https://portfolio.peter-baumgartner.net/2017/09/10/how-to-install-disqus-on-hugo/
-# disable language
 disableLanguages = [] # example: ["de"] for disable deutsch language. see https://gohugo.io/content-management/multilingual/
 hasCJKLanguage = true # If hasCJKLanguage true, auto-detect Chinese/Japanese/Korean Languages in the content.
 
@@ -72,3 +66,24 @@ suffixes = [""]
 [outputFormats.WebAppManifest]
 mediaType = "application/manifest+json"
 rel = "manifest"
+
+
+######################### site variables ##############################
+# customize your color and font from here.
+[params.variables]
+color_primary = "#74A"
+color_secondary = "#376f92"
+body_color = "#fff"
+text_color = "#777"
+text_dark = "#222"
+text_light = "#959595"
+border_color = "#ECECEC"
+dark_body_color = "#1E262C"
+dark_text_color = "#cbcbcb"
+dark_text_light = "#959595"
+dark_text_dark = "#fff"
+dark_border_color = "#4e4e4e"
+black = "#101418"
+white = "#fff"
+light = "#EDF6F5"
+dark = "#1b2229"
