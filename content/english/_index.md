@@ -12,26 +12,16 @@ banner:
 ########################## Clients Logo Slider #########################
 clients_logo_slider:
   enable: false
-  title: "The best customer experiences are built with Bigspring"
+  title: "Join these nice companies that already use Mitzu"
   logos:
     - "images/brands/01-colored.png"
     - "images/brands/02-colored.png"
-    - "images/brands/03-colored.png"
-    - "images/brands/04-colored.png"
-    - "images/brands/05-colored.png"
-    - "images/brands/06-colored.png"
-    - "images/brands/03-colored.png"
-    - "images/brands/01-colored.png"
-    - "images/brands/02-colored.png"
-    - "images/brands/04-colored.png"
-    - "images/brands/05-colored.png"
-    - "images/brands/06-colored.png"
 
 ##################### Feature ##########################
 feature:
   enable: true
   title: "No Code Ad-Hoc Data Analytics Platform"
-  content: "Mitzu lets you analyze your data without knowing SQL or Python coding. Create funnels, user segmentation, retention or journey definitions and Mitzu translates it to SQL."
+  content: "Mitzu lets you explore your data without knowing SQL or Python coding. Create funnels, user segmentation, retention or journey definitions and Mitzu translates it to SQL."
   button:
     enable: true
     label: "Learn More"
@@ -70,34 +60,31 @@ service:
   enable: true
   service_item:
     # service item loop
-    - title: "It is the most advanced digital marketing company."
+    - title: "Funnels, Segmentation, Retention, User Journeys and more"
       images:
-        - "images/service-1.png"
-        - "images/service-2.png"
-        - "images/service-3.png"
-      content: "Adipiscing elit Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+        - "images/conversion_over_time.png"
+      content: Mitzu enables product, marketing and data analyst teams to explore the data.
+
+    - title: "Mitzu is Open Source"
+      images:
+        - "images/tools/open_source.png"
+      content: You are free to host your own version of Mitzu. Check out the [documentaion](https://github.com/mitzu-io/mitzu) how to get started.
 
     # service item loop
-    - title: "It is a privately owned Information and cyber security company"
+    - title: "Mitzu Also Runs in a Notebook"
       images:
-        - "images/service-1.png"
-      content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+        - "gifs/mitzu_in_notebook.gif"
+      content: "We built a python package that can run inside a jupyter or zeppelin notebook. Data analysts and data scientists can save hours by not writing SQL or Pandas code."
 
     # service item loop
-    - title: "It’s a team of experienced and skilled people with distributions"
+    - title: "Your Data Stays in Your Organization"
       images:
-        - "images/service-2.png"
-      content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
-
-    # service item loop
-    - title: "A company standing different from others"
-      images:
-        - "images/service-3.png"
-      content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+        - "images/security.png"
+      content: Unlike other tools like Amplitude or Mixpanel Mitzu doesn't demamnds you to move your data out of your organization.
 
 ################### Testimonials ########################
 testimonials:
-  enable: true
+  enable: false
   title: "Trusted by those you trust"
   content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin."
 
@@ -116,6 +103,23 @@ testimonials:
       name: "David Cameron"
       designation: "CEO, Nexuspay"
       image: "images/avatar/04.jpg"
+
+################### tools_intregrate ########################
+tools_intregrate:
+  enable: true
+  title: "Mitzu integrates with these data warehouses"
+  content: "Contact us if you are missing a source!"
+  image: "images/screenshot.svg"
+
+  tools:
+    - "images/tools/databricks.png"
+    - "images/tools/snowflake.png"
+    - "images/tools/clickhouse.png"
+    - "images/tools/redshift.png"
+    - "images/tools/athena.png"
+    - "images/tools/trino.png"
+    - "images/tools/postgre.png"
+    - "images/tools/mysql.png"
 
 ##################### Call to action #####################
 call_to_action:
