@@ -6,7 +6,7 @@ banner:
   content: "Data-driven product teams use Mitzu for building funnels, understanding user behaviour and sharing insights within the organiation."
   button:
     enable: true
-    label: "Explore Demo"
+    label: "Explore the Beta"
     link: "https://app.mitzu.io/ecommerce_athena_DWH?"
 
 ########################## Clients Logo Slider #########################
@@ -21,7 +21,7 @@ clients_logo_slider:
 feature:
   enable: true
   title: "No Code Ad-Hoc Data Analytics Platform"
-  content: "Mitzu lets you explore your data without knowing SQL or Python coding. Create funnels, user segmentation, retention or journey definitions and Mitzu translates it to SQL."
+  content: "Mitzu lets you explore user behavioral data without knowing SQL or Python coding. Formulate user conversion, segmentation, retention or journey behavioral questions and Mitzu takes care of translating them to SQL."
   button:
     enable: true
     label: "Learn More"
@@ -45,7 +45,7 @@ feature:
     # feature item loop
     - name: "Collaborate"
       icon: "fa-solid fa-share-nodes"
-      content: "Easily share Mitzu charts and learning within your organization."
+      content: "Easily share Mitzu charts and insights within your organization."
 
 ######################### Intro Video #####################
 intro_video:
@@ -63,7 +63,7 @@ service:
     - title: "Funnels, Segmentation, Retention, User Journeys and more"
       images:
         - "images/conversion_over_time.png"
-      content: Mitzu enables product, marketing and data analyst teams to explore the data.
+      content: Mitzu enables product, marketing and data analyst teams to discover how users behave.
 
     - title: "Mitzu is Open Source"
       images:
@@ -125,7 +125,6 @@ tools_intregrate:
 call_to_action:
   enable: true
   title: "Ready to get started?"
-  content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat eget amtempus eu at consecttur."
   button:
     enable: true
     label: "Contact Us"

@@ -13,7 +13,7 @@ logo_webp = true
 logo_text = "Mitzu"
 # theme-mode
 theme_switcher = true
-theme_default = "automatic" # available options [light/dark/automatic]
+theme_default = "dark" # available options [light/dark/automatic]
 # Main Sections
 mainSections = ["blog"]
 # contact form action
