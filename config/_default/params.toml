@@ -57,12 +57,12 @@ domain = ""    # yourdomain.com
 
 # counter analytics: see https://counter.dev/setup.html
 [counter]
-enable = false
-username = ""  # your username
+enable = true
+username = "istvan.meszaros.88@gmail.com"  # your username
 
 # site verifications
 [site_verification]
-google = ""   # Your verification code
+google = "s6_pDIUJoNJQWNN7ILUkBHIjSx9wki3MdIAhQSeNwyY"   # Your verification code
 
 # cookies
 [cookies]
