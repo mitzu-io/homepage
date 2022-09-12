@@ -2,15 +2,15 @@
 title: "Contact Us"
 subtitle: ""
 # meta description
-description: "This is meta description"
+description: "Contact us"
 draft: false
 layout: "contact"
 ---
 
+#### We are here to help!
 
-#### Why you should contact us!
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt.
+If you have any question or advice, feel free to contact us. We are very responsive :)
 
-* **Phone: +88 125 256 452** 
-* **Mail: info@bigspring.com**
-* **Address: 360 Main rd, Rio, Brazil**
+- **Mail: info@mitzu.io**
+- **Slack: https://mitzu-io.slack.com**
+- **Address: Budapest, Hungary**
