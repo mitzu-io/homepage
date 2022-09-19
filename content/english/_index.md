@@ -79,7 +79,7 @@ service:
     # service item loop
     - title: "Your data stays in your organization"
       images:
-        - "images/mitzu_shield.svg"
+        - "images/mitzu_shield_long.png"
       content: Unlike other tools like Amplitude or Mixpanel Mitzu doesn't require you to move your data out of your organization.
 
 ################### Testimonials ########################
