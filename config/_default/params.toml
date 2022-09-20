@@ -2,11 +2,11 @@
 # favicon
 favicon = "images/mitzu_favicon.png"
 # logo
-logo = "images/mitzu_logo_final.svg"
-logo_dark = "images/mitzu_logo_final.svg"
+logo = "images/mitzu-logo-long.svg"
+logo_dark = "images/mitzu-logo-long.svg"
 # use `px` or `x` with logo_width, example: "100px".
 # Note: logo_width is not work with .svg file
-logo_width = "64px"
+logo_width = "180px"
 # if logo_webp set false, will not generate WEBP version of logo | default is true
 logo_webp = true
 # logo text will only show when logo is missing.
