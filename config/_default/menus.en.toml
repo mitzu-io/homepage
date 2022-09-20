@@ -33,12 +33,4 @@ name = "Contact"
 url = "contact/"
 weight = 2
 
-[[footer_right]]
-name = "Privacy Policy"
-url = "privacy-policy/"
-weight = 3
 
-[[footer_right]]
-name = "Terms & Conditions"
-url = "terms-conditions/"
-weight = 4
