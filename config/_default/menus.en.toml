@@ -4,10 +4,6 @@ name = "Home"
 url = "/"
 weight = 1
 
-[[main]]
-name = "Documentation"
-url = "documentation/"
-weight = 2
 
 [[main]]
 name = "Github"
@@ -30,11 +26,6 @@ parent = "Community"
 name = "Contact us"
 url = "contact/"
 weight = 2
-
-[[footer_left]]
-name = "Documentation"
-url = "documentation/"
-weight = 3
 
 
 [[footer_right]]

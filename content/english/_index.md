@@ -6,7 +6,7 @@ banner:
   content: "Data-driven product teams use Mitzu for building funnels, understanding user behavior and sharing insights within their organization."
   button:
     enable: true
-    label: "Explore our beta"
+    label: "Try our beta"
     link: "https://app.mitzu.io/ecommerce_athena_DWH?"
 
 ########################## Clients Logo Slider #########################
@@ -68,7 +68,7 @@ service:
     - title: "Self-hosted Mitzu"
       images:
         - "images/self-hosted.png"
-      content: Mitzu is open source so you are free to host your own version. Check out the [documentation](https://github.com/mitzu-io/mitzu) how to get started.
+      content: Mitzu is open source so you are free to host your own version. [Contact us](contact/) to get started.
 
     # service item loop
     - title: "Mitzu also runs in a notebook"
@@ -124,7 +124,7 @@ tools_intregrate:
 ##################### Call to action #####################
 call_to_action:
   enable: true
-  title: "Ready to get started?"
+  title: "Are you interested in running Mitzu at your company?"
   button:
     enable: true
     label: "Contact Us"
