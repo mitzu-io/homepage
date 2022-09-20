@@ -68,7 +68,7 @@ service:
     - title: "Self-hosted Mitzu"
       images:
         - "images/self-hosted.png"
-      content: Mitzu is open source so you are free to host your own version. Check out the [documentation](https://github.com/mitzu-io/mitzu) how to get started.
+      content: Mitzu is open source so you are free to host your own version. [Contact us](contact/) to get started.
 
     # service item loop
     - title: "Mitzu also runs in a notebook"
