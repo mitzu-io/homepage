@@ -3,10 +3,10 @@
 banner:
   title: "Product Analytics Over Your Data Warehouse"
   image: "gifs/hero.gif"
-  content: "Data-driven product teams use Mitzu for building funnels, understanding user behavior and sharing insights within the organization."
+  content: "Data-driven product teams use Mitzu for building funnels, understanding user behavior and sharing insights within their organization."
   button:
     enable: true
-    label: "Explore the beta"
+    label: "Explore our beta"
     link: "https://app.mitzu.io/ecommerce_athena_DWH?"
 
 ########################## Clients Logo Slider #########################
@@ -40,7 +40,7 @@ feature:
     # feature item loop
     - name: "Capture"
       icon: "fa-solid fa-magnifying-glass"
-      content: "Capture insights and explore how your customers use your product or service."
+      content: "Capture insights and explore how your customers use your product."
 
     # feature item loop
     - name: "Collaborate"
@@ -63,18 +63,18 @@ service:
     - title: "Funnels, segmentation, retention, user journeys and more"
       images:
         - "images/conversion_over_time.png"
-      content: Mitzu enables product, marketing and data analyst teams to discover how users behave.
+      content: Mitzu enables product, marketing and data analyst teams to discover how users behave. We help you get to reliable insights faster so that you can quickly share and decide on the actions with your team.
 
     - title: "Self-hosted Mitzu"
       images:
         - "images/self-hosted.png"
-      content: You are free to host your own version of Mitzu. Check out the [documentation](https://github.com/mitzu-io/mitzu) how to get started.
+      content: Mitzu is open source so you are free to host your own version. Check out the [documentation](https://github.com/mitzu-io/mitzu) how to get started.
 
     # service item loop
     - title: "Mitzu also runs in a notebook"
       images:
         - "gifs/mitzu_in_notebook.gif"
-      content: "We built a python package that can run inside a jupyter or zeppelin notebook. Data analysts and data scientists can save hours by not writing SQL or Pandas code."
+      content: "We built a python package that can run inside a jupyter or zeppelin notebook. Data analysts and data scientists can save hours by using Mitzu instead of writing SQL or Pandas code."
 
     # service item loop
     - title: "Your data stays in your organization"

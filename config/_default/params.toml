@@ -1,9 +1,9 @@
 #################### default parameters ################################
 # favicon
-favicon = "images/favicon.png"
+favicon = "images/mitzu_favicon.png"
 # logo
-logo = "images/logo.png"
-logo_dark = "images/logo.png"
+logo = "images/mitzu_logo_final.svg"
+logo_dark = "images/mitzu_logo_final.svg"
 # use `px` or `x` with logo_width, example: "100px".
 # Note: logo_width is not work with .svg file
 logo_width = "32px"
@@ -35,7 +35,7 @@ preloader = "" # use jpg, png, svg or gif format.
 # Navigation button
 [navigation_button]
 enable = true
-label = "Sign Up"
+label = "Join our beta"
 link = "https://app.mitzu.io/ecommerce_athena_DWH?"
 
 # contact info
@@ -48,7 +48,7 @@ email = "info@mitzu.io"
 keywords = ["Mitzu", "Product", "Analytics","Data", "Warehouse", "SQL", "Databricks", "Snowflake", "Redshift", "Athena", "Bigquery"]
 description = "Data-driven product teams use Mitzu for building funnels understanding user behaviour, sharing insights across teams."
 author = "Mitzu"
-image = "images/logo.png"                           # this image will be used as fallback if a page has no image of its own
+image = "images/mitzu_logo_final.svg"                           # this image will be used as fallback if a page has no image of its own
 
 # plausible analytics: see https://plausible.io/
 [plausible]
