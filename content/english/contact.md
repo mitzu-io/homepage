@@ -12,5 +12,5 @@ layout: "contact"
 If you have any question or advice, feel free to contact us. We are very responsive :)
 
 - **Mail: info@mitzu.io**
-- **Slack: https://mitzu-io.slack.com**
+- **Slack: https://join.slack.com/t/mitzu-io/shared_invite/zt-1h1ykr93a-_VtVu0XshfspFjOg6sczKg**
 - **Address: Budapest, Hungary**
