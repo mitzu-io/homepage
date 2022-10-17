@@ -4,11 +4,10 @@ name = "Home"
 url = "/"
 weight = 1
 
-
 [[main]]
 name = "Github"
 url = "https://github.com/mitzu-io/mitzu"
-weight = 3
+weight = 2
 
 [[main]]
 weight = 4
@@ -22,15 +21,41 @@ url = "https://join.slack.com/t/mitzu-io/shared_invite/zt-1h1ykr93a-_VtVu0Xshfsp
 weight = 1
 
 [[main]]
+name = "About"
+url = "about/"
+weight = 5
+
+[[main]]
 parent = "Community"
 name = "Contact us"
 url = "contact/"
-weight = 2
+weight = 1
 
+[[main]]
+name = "FAQ"
+url = "faq/"
+weight = 4
+
+
+[[footer_left]]
+name = "About Us"
+url = "about/"
+weight = 1
+
+
+[[footer_middle]]
+name = "Documentation"
+url = "https://github.com/mitzu-io/mitzu/blob/main/DOCS.md"
+weight = 1
+
+[[footer_middle]]
+name = "FAQ"
+url = "faq/"
+weight = 2
 
 [[footer_right]]
 name = "Contact"
 url = "contact/"
-weight = 2
+weight = 1
 
 

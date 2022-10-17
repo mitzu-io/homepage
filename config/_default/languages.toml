@@ -6,6 +6,6 @@ contentDir = "content/english"
 weight = 1
 ########### footer content ##########
 footer_menu_left = "Company"
-footer_menu_middle = "Products"
+footer_menu_middle = "Get Help"
 footer_menu_right = "Support"
-footer_content = "Give us a Github star, or join us on Slack:"
+footer_content = "Give us a Github star or join the community on Slack"

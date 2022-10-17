@@ -7,21 +7,40 @@ draft: false
 layout: "faq"
 
 faq_list:
-- title: "How to change my billing information?"
-  content: 'You will be able to manage all projects through the platform. Once you insert your details and availability on the platform, you will be automatically assigned photoshoots when the place/date/time coincide with your data. All you’ll have to do is “accept” or “reject” the assignments before they expire, as well as their terms & conditions, and turn up at the given address on the right date/time. In addition, all updates and changes will be communicated through notifications on the platform.'
+- title: "Is Mitzu Open Source?"
+  content: |- 
+    Yes Mitzu is open-source. The Mitzu source code is distribute under the [MIT License](https://mit-license.org/). 
+    [Contact us](contact/) if you need help on trying out Mitzu locally.
 
-- title: "Can I Use Bigspring with cloud documents?"
-  content: 'The Service is provided for free during this pilot project, and is provided "as is" with is not committed to any level of service or availability of the Service.
-  
-  
-  A further If you enter into this agreement on behalf of a company, you hereby agree that the company is responsible under this Agreement for all actions and omissions'
+- title: "Is There A Paid Version Of Mitzu?"
+  content: |- 
+   At the moment, Mitzu is open-source. We are in the progress of building a self-served version of Mitzu. We plan to launch the self-served version in February 2023. We will also provide an on-premise enterprise edition of Mitzu. We will publish the details about the on-premise enterprise version later this year.
 
-- title: "If I cancel, can I archive my designs to keep them safe?"
-  content: "A team of photography experts at will analyze your test and give you feedback and your results.
-  
-  
-  We don’t hand out grades like you would on a high school exam. Your test will either be accepted or rejected. In other words, you’ll either get a “passing grade” or you won’t."
+- title: "How Does Mitzu Compare To Amplitude And Alternatives?"
+  content: |-
+    > **Mitzu shares many similarities with Amplitude, Mixpanel, Heap, etc:**
+    > <br/><br/>
+    > - Mitzu is a product-analytics tool for your online business.
+    > - Mitzu is a website that is easily accessible by anyone in the company.
+    > - Mitzu fosters collaboration through shareable website URLs
+    > - Mitzu lets you explore your user behavioral data
 
-- title: "How can I adjust user permissions & admin provileges?"
-  content: "We allows you to concentrate on snapping the pictures, while we take care of everything else. The platform automatically assigns photoshoots to you, depending on your availability, and allows you to upload all your work on it after completion. No muss no fuss!"
+    > **On the other hand, Mitzu is different:**
+    > <br/><br/>
+    > - Mitzu is open-source
+    > - Mitzu queries your data warehouse or data lake directly
+    > - Unlike Amplitude, Mixpanel, Heap, Google Analytics, etc. Mitzu doesn't collect your data.
+    > - We designed Mitzu to run on-premise for maximized data security
+    > - Mitzu connects to most modern data lakes and warehouse
+  
+- title: "How Do I Get Started With Mitzu?"
+  content: |-
+    The easiest way to get started is to follow our guide on [Github](https://github.com/mitzu-io/mitzu).
+    Also you can try out the Demo (beta) at [app.mitzu.io](https://app.mitzu.io/)
+
+- title: "How To Connect Mitzu To Our Data Warehouse?"
+  content: |-
+    You can find our comprehensive guide in the [Docs](https://github.com/mitzu-io/mitzu/blob/main/DOCS.md). 
+    Please [contact us](contact/) if you need any further help. 
+
 ---

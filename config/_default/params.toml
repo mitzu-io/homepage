@@ -20,7 +20,7 @@ mainSections = ["blog"]
 contact_form_action = "https://formspree.io/f/xbjbdwdv"
 # demo form action
 demo_form_action = "#!" # demo form works with [https://airform.io/] or [https://formspree.io]
-# google_tag_manager = "" # example: G-GRP3E3CNWX
+# google_tag_manager = "G-GRP3E3CNWX" # example: 
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
 custom_script = ""
 # copyright
@@ -46,7 +46,7 @@ email = "info@mitzu.io"
 # seo meta data for OpenGraph / Twitter Card
 [metadata]
 keywords = ["Mitzu", "Product", "Analytics","Data", "Warehouse", "SQL", "Databricks", "Snowflake", "Redshift", "Athena", "Bigquery"]
-description = "Data-driven product teams use Mitzu for building funnels understanding user behaviour, sharing insights across teams."
+description = "Data-driven product teams use Mitzu to build funnels, understand user behavior, and share insights across the organization"
 author = "Mitzu"
 image = "images/mitzu_logo_final.svg"                           # this image will be used as fallback if a page has no image of its own
 
@@ -66,7 +66,7 @@ google = "s6_pDIUJoNJQWNN7ILUkBHIjSx9wki3MdIAhQSeNwyY"   # Your verification cod
 
 # cookies
 [cookies]
-enable = false
+enable = true
 expire_days = 14
 content = "This site uses cookies. By continuing to use this website, you agree to their use."
 button = "I Accept"
