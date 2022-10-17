@@ -35,7 +35,7 @@ preloader = "" # use jpg, png, svg or gif format.
 # Navigation button
 [navigation_button]
 enable = true
-label = "Visit dDmo (beta)"
+label = "Visit Demo (beta)"
 link = "https://app.mitzu.io/ecommerce_athena_DWH?"
 
 # contact info
