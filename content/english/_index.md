@@ -20,8 +20,9 @@ clients_logo_slider:
 ##################### Feature ##########################
 feature:
   enable: true
-  title: "Mitzu writes SQL instead of you"
-  content: "Mitzu lets you explore user behavioral data without knowing SQL or Python code. Formulate user conversion, segmentation, retention or journey questions and Mitzu takes care of translating them to SQL."
+  title: "Mitzu writes SQL for of you"
+  content: "Mitzu lets you explore user behavioral data without knowing SQL or Python code. 
+  Formulate user conversion, segmentation, retention, or journey questions, and Mitzu translates them to SQL."
   button:
     enable: true
     label: "Learn More"
@@ -30,12 +31,12 @@ feature:
     # feature item loop
     - name: "Connect"
       icon: "fa-solid fa-plug"
-      content: "Mitzu queries directly your organization's data warehouse or data lake. No need to copy data to 3rd party tools anymore."
+      content: "Mitzu queries your organization's data warehouse or data lake directly. No need to copy data to 3rd party tools anymore."
 
     # feature item loop
     - name: "Create"
       icon: "fa-solid fa-circle-plus"
-      content: "Create beautiful charts without learning complex tools and programming languages"
+      content: "Create beautiful charts without learning complex tools and programming languages."
 
     # feature item loop
     - name: "Capture"
@@ -49,8 +50,8 @@ feature:
 
 ######################### Intro Video #####################
 intro_video:
-  enable: false
-  title: "Built exclusively for you"
+  enable: true
+  title: "See Mitzu In Action"
   content: " "
   video_url: "https://www.youtube.com/embed/dyZcRRWiuuw"
   video_thumbnail: "images/video-popup.jpg"
@@ -63,24 +64,24 @@ service:
     - title: "Funnels, segmentation, retention, user journeys and more"
       images:
         - "images/conversion_over_time.png"
-      content: Mitzu enables product, marketing and data analyst teams to discover how users behave. We help you get to reliable insights faster so that you can quickly share and decide on the actions with your team.
+      content: Mitzu enables product, marketing, and data analyst teams to discover how users behave. We help you get reliable insights faster so you can quickly share and decide on the actions with your team.
 
     - title: "Self-hosted Mitzu"
       images:
         - "images/self-hosted.png"
-      content: Mitzu is open source so you are free to host your own version. [Contact us](contact/) to get started.
+      content: Mitzu is open-source. You are free to host it. [Contact us](contact/) to get started or visit our handy [documentation](https://github.com/mitzu-io/mitzu).
 
     # service item loop
     - title: "Mitzu also runs in a notebook"
       images:
         - "gifs/mitzu_in_notebook.gif"
-      content: "We built a python package that can run inside a jupyter or zeppelin notebook. Data analysts and data scientists can save hours by using Mitzu instead of writing SQL or Pandas code."
+      content: "We built a python package that can run inside a Jupyter or Zeppelin notebook. Data analysts and scientists can save hours using Mitzu instead of writing SQL or Pandas code."
 
     # service item loop
     - title: "Your data stays in your organization"
       images:
         - "images/ mitzu-shield-8x.png"
-      content: Unlike other tools like Amplitude or Mixpanel Mitzu doesn't require you to move your data out of your organization.
+      content: Unlike other tools like Amplitude or Mixpanel, Mitzu doesn't require you to move your data out of your organization.
 
 ################### Testimonials ########################
 testimonials:
@@ -107,7 +108,7 @@ testimonials:
 ################### tools_intregrate ########################
 tools_intregrate:
   enable: true
-  title: "Mitzu integrates with these data warehouses"
+  title: "Mitzu integrates with these data warehouses and data lakes"
   content: "Contact us if you are missing a source!"
   image: "images/about.png"
 
