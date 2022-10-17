@@ -9,16 +9,18 @@ layout: "about"
 # about
 about:
   title: "We create the open-source product analytics tool"
-  content: "We are the team that helps your company to analyze its data without giving it up."
+  content: "We are the team that helps your company to analyze its data without giving it up to 3rd parties."
   image: "images/about.jpg"
 
 
 # # founders_quote
 # founders_quote:
-#   name: "Charles Dickens"
-#   subtitle: "The Founder, Bigspring LLC"
+#   name: "István Mészáros"
+#   subtitle: "Founder of Mitzu"
 #   image: "images/avatar/02.jpg"
-#   content: "We’re changing how product managers, developers, and data scientists plan, track, and govern analytics across organizations. Before Avo, teams were forced to choose between product delivery speed and reliable insights."
+#   content: |- 
+#     Open-source has the power to change how companies will analyze their data. We shouldn't rely on businesses that lock you in 
+    
 
 
 # who_we_are
@@ -72,11 +74,11 @@ features_box:
 
   - icon: "fa-solid fa-lock-open"
     title: "We are building a great community"
-    content: "Mitzu is open-source and we want to keep it this way. We believe in the capabilities of open-source community development."
+    content: "Mitzu is open-source, and we want to keep it this way. We believe in the capabilities of open-source community development."
     
   - icon: "fa-solid fa-ear-listen"
     title: "We care about your feedback"
-    content: "We are available during working hours in European timezones, write us and we will reply soon. Give us feedback or report bugs."
+    content: "Your opinion matters to us! Please give us feedback or report bugs."
 
 
 # office_culture
@@ -84,7 +86,7 @@ office_culture:
   enable: true
   title: "People In Need"
   content: |- 
-    Mitzu open-source can be interesting for people who any of these skills
+    Mitzu open-source can be interesting for people who have any of these skills
       - python developer
       - data analyst 
       - data scientist 
