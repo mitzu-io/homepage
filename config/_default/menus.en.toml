@@ -18,7 +18,7 @@ hasChildren = true
 [[main]]
 parent = "Community"
 name = "Join our Slack"
-url = "blog/"
+url = "https://join.slack.com/t/mitzu-io/shared_invite/zt-1h1ykr93a-_VtVu0XshfspFjOg6sczKg"
 weight = 1
 
 [[main]]
