@@ -2,7 +2,7 @@
 ####################### Banner #########################
 banner:
   title: "Product Analytics Over Your Data Warehouse"
-  image: "gifs/hero.gif"
+  image: "images/hero2.svg"
   content: "Data-driven product teams use Mitzu for building funnels, understanding user behavior and sharing insights within their organization."
   button:
     enable: true
@@ -22,7 +22,7 @@ feature:
   enable: true
   title: "Mitzu writes SQL for of you"
   content: "Mitzu lets you explore user behavioral data without knowing SQL or Python code. 
-  Formulate user conversion, segmentation, retention, or journey questions, and Mitzu translates them to SQL."
+  Easily create user funnels, segmentation, and retention metrics Mitzu queries your data warehouse with the generated SQL."
   button:
     enable: true
     label: "Learn More"
@@ -49,11 +49,12 @@ feature:
       content: "Easily share Mitzu charts and insights within your organization."
 
 ######################### Intro Video #####################
+
 intro_video:
   enable: true
-  title: "See Mitzu In Action"
-  content: " "
-  video_url: "https://youtu.be/23YZ4IKK3HQ"
+  title: "See Mitzu in action"
+  content: "Take a tour of Mitzu (beta)."
+  video_url: "https://www.youtube.com/embed/23YZ4IKK3HQ"
   video_thumbnail: "images/video-thumbnail.png"
 
 ######################### Service #####################
@@ -63,7 +64,7 @@ service:
     # service item loop
     - title: "Funnels, segmentation, retention, user journeys and more"
       images:
-        - "images/conversion_over_time.png"
+        - "images/funnels.svg"
       content: Mitzu enables product, marketing, and data analyst teams to discover how users behave. We help you get reliable insights faster so you can quickly share and decide on the actions with your team.
 
     - title: "Self-hosted Mitzu"
