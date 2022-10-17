@@ -20,7 +20,7 @@ clients_logo_slider:
 ##################### Feature ##########################
 feature:
   enable: true
-  title: "Mitzu writes SQL for of you"
+  title: "Mitzu writes SQL for you"
   content: "Mitzu lets you explore user behavioral data without knowing SQL or Python code. 
   Easily create user funnels, segmentation, and retention metrics Mitzu queries your data warehouse with the generated SQL."
   button:
