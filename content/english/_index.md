@@ -53,8 +53,8 @@ intro_video:
   enable: true
   title: "See Mitzu In Action"
   content: " "
-  video_url: "https://www.youtube.com/embed/dyZcRRWiuuw"
-  video_thumbnail: "images/video-popup.jpg"
+  video_url: "https://youtu.be/23YZ4IKK3HQ"
+  video_thumbnail: "images/video-thumbnail.png"
 
 ######################### Service #####################
 service:
