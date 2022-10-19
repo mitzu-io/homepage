@@ -1,8 +1,8 @@
 ---
 title: "Frequently Asked Questions"
-subtitle: "luctus ultrices posuere cubilia"
+subtitle: "If you can't find you answer here write us!"
 # meta description
-description: "Vestibulum ante ipsum primis in faucibus orci luctus ultrices posuere cubilia Curae Donec"
+description: "If you can't find you answer here write us!"
 draft: false
 layout: "faq"
 
