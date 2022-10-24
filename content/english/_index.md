@@ -2,7 +2,7 @@
 ####################### Banner #########################
 banner:
   title: "Product Analytics Over Your Data Warehouse"
-  image: "images/hero2.svg"
+  image: "images/hero3.svg"
   content: "Data-driven product teams use Mitzu for building funnels, understanding user behavior and sharing insights within their organization."
   button:
     enable: true
@@ -72,18 +72,17 @@ service:
       images:
         - "images/self-hosted.png"
       content: Mitzu is open-source. You are free to host it. [Contact us](contact/) to get started or visit our handy [documentation](https://github.com/mitzu-io/mitzu).
-
-    # service item loop
+  
+    - title: "Your data stays in your organization"
+      images:
+        - "images/ mitzu-shield-8x.png"
+      content: Unlike other tools like Amplitude or Mixpanel, Mitzu doesn't require you to move your data out of your organization.
+    
     - title: "Mitzu also runs in a notebook"
       images:
         - "gifs/mitzu_in_notebook.gif"
       content: "We built a python package that can run inside a Jupyter or Zeppelin notebook. Data analysts and scientists can save hours using Mitzu instead of writing SQL or Pandas code."
 
-    # service item loop
-    - title: "Your data stays in your organization"
-      images:
-        - "images/ mitzu-shield-8x.png"
-      content: Unlike other tools like Amplitude or Mixpanel, Mitzu doesn't require you to move your data out of your organization.
 
 ################### Testimonials ########################
 testimonials:
