@@ -78,7 +78,7 @@ features_box:
     
   - icon: "fa-solid fa-ear-listen"
     title: "We care about your feedback"
-    content: "Your opinion matters to us! Please give us feedback or report bugs."
+    content: "Your opinion matters to us! Please give us feedback or report bugs. Slack us if you have a feature request!"
 
 
 # office_culture
