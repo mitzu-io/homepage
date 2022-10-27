@@ -12,8 +12,8 @@ logo_webp = true
 # logo text will only show when logo is missing.
 logo_text = "Mitzu"
 # theme-mode
-theme_switcher = true
-theme_default = "automatic" # available options [light/dark/automatic]
+theme_switcher = false
+theme_default = "light" # available options [light/dark/automatic]
 # Main Sections
 mainSections = ["blog"]
 # contact form action
