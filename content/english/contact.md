@@ -1,8 +1,8 @@
 ---
 title: "Contact Us"
-subtitle: ""
+subtitle: "Write us, we respond fast!"
 # meta description
-description: "Contact us"
+description: "We care about your opinion and feedback, don't hesitate to write us!"
 draft: false
 layout: "contact"
 ---

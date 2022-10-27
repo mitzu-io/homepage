@@ -1,7 +1,7 @@
 ---
 title: "About Us"
 subtitle: "The team that cares"
-description: "Mitzu is a team of great data engineers"
+description: "Mitzu is a team of product-obsessed data engineers."
 draft: false
 layout: "about"
 

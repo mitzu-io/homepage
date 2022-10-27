@@ -7,7 +7,7 @@ subtitle: |-
   Mitzu Premium offers transparent and predictable pricing 
   
   ---
-description: "Everything you need for best in class service"
+description: "Pay for what you use! Mitzu Premium offers transparent and predictable pricing"
 draft: false
 layout: "pricing"
 
