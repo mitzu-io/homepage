@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: "Visit Demo (beta)"
-    link: "https://app.mitzu.io/ecommerce_athena_DWH?"
+    link: "https://app.mitzu.io/sample_ecommerce_athena?"
 
 ########################## Clients Logo Slider #########################
 clients_logo_slider:
