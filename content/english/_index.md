@@ -6,7 +6,7 @@ banner:
   content: "Data-driven product teams use Mitzu for building funnels, understanding user behavior and sharing insights within their organization."
   button:
     enable: true
-    label: "Visit Demo (beta)"
+    label: "Visit demo (beta)"
     link: "https://app.mitzu.io/sample_ecommerce_athena?"
 
 ########################## Clients Logo Slider #########################
