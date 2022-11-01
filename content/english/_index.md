@@ -128,7 +128,7 @@ call_to_action:
   title: "Keen To Try Out Mitzu?"
   content: |-
     We are gradually rolling out Mitzu for everyone. <br/> 
-    Can't wait? [Contact us](/contact) for a support.
+    Can't wait? [Contact us](/contact).
   button:
     enable: true
     label: "Join The Waiting List"
