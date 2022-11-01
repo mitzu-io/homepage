@@ -1,7 +1,7 @@
 ---
 ####################### Banner #########################
 banner:
-  title: "Product Analytics Over Your Data Warehouse"
+  title: "Product analytics over your data warehouse"
   image: "images/hero3.svg"
   content: "Data-driven product teams use Mitzu for building funnels, understanding user behavior and sharing insights within their organization."
   button:
@@ -125,12 +125,11 @@ tools_intregrate:
 ##################### Call to action #####################
 call_to_action:
   enable: true
-  title: "Keen To Try Out Mitzu?"
+  title: "Stay in touch!"
   content: |-
-    We are gradually rolling out Mitzu for everyone. <br/> 
-    Can't wait? [Contact us](/contact).
+    We are adding new features suprisingly fast. Don't miss a beat!<br/>
   button:
     enable: true
-    label: "Join The Waiting List"
+    label: "Subscribe for product updates"
     link: "https://forms.gle/u5UsDR45R5xTLpkX6"
 ---
