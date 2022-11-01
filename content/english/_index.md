@@ -21,9 +21,9 @@ clients_logo_slider:
 feature:
   enable: true
   title: "Mitzu writes SQL for of you"
-  content: "Mitzu lets you explore user data without knowing SQL or Python code. 
-   Create user funnels, segmentation, and retention metrics with a couple clicks. 
-   **Mitzu** will take care of the SQL and the charts for you."
+  content: "Mitzu lets you explore user data without knowing SQL or Python code.
+    Create user funnels, segmentation, and retention metrics with a couple clicks.
+    **Mitzu** will take care of the SQL and the charts for you."
   button:
     enable: true
     label: "Learn More"
@@ -72,17 +72,16 @@ service:
       images:
         - "images/self-hosted.png"
       content: Mitzu is open-source. You are free to host it. [Contact us](contact/) to get started or visit our handy [documentation](https://github.com/mitzu-io/mitzu).
-  
+
     - title: "Your data stays in your organization"
       images:
         - "images/ mitzu-shield-8x.png"
       content: Unlike other tools like Amplitude or Mixpanel, Mitzu doesn't require you to move your data out of your organization.
-    
+
     - title: "Mitzu also runs in a notebook"
       images:
         - "gifs/mitzu_in_notebook.gif"
       content: "We built a python package that can run inside a Jupyter or Zeppelin notebook. Data analysts and scientists can save hours using Mitzu instead of writing SQL or Pandas code."
-
 
 ################### Testimonials ########################
 testimonials:
@@ -126,9 +125,12 @@ tools_intregrate:
 ##################### Call to action #####################
 call_to_action:
   enable: true
-  title: "Are you interested in running Mitzu at your company?"
+  title: "Keen To Try Out Mitzu?"
+  content: |-
+    We are gradually rolling out Mitzu for everyone. <br/> 
+    Can't wait? [Contact us](/contact) for a support.
   button:
     enable: true
-    label: "Contact Us"
-    link: "contact/"
+    label: "Join The Waiting List"
+    link: "https://forms.gle/u5UsDR45R5xTLpkX6"
 ---
