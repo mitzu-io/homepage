@@ -5,7 +5,7 @@ theme = ["bigspring"]
 timeZone = "UTC"
 paginate = "6" 
 summaryLength = "10"
-googleAnalytics = "" # example: UA-123-45, for more info, read the article https://support.google.com/analytics/answer/1008080?hl=en
+googleAnalytics = "307711707" # example: UA-123-45, for more info, read the article https://support.google.com/analytics/answer/1008080?hl=en
 disqusShortname = "themefisher-template" # we use disqus to show comments in blog posts . To install disqus please follow this tutorial https://portfolio.peter-baumgartner.net/2017/09/10/how-to-install-disqus-on-hugo/
 disableLanguages = [] # example: ["de"] for disable deutsch language. see https://gohugo.io/content-management/multilingual/
 hasCJKLanguage = true # If hasCJKLanguage true, auto-detect Chinese/Japanese/Korean Languages in the content.
