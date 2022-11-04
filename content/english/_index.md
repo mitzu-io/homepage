@@ -20,7 +20,7 @@ clients_logo_slider:
 ##################### Feature ##########################
 feature:
   enable: true
-  title: "Mitzu writes SQL for of you"
+  title: "Mitzu writes SQL for you"
   content: "Mitzu lets you explore user data without knowing SQL or Python code.
     Create user funnels, segmentation, and retention metrics with a couple clicks.
     **Mitzu** will take care of the SQL and the charts for you."
@@ -127,7 +127,7 @@ call_to_action:
   enable: true
   title: "Stay in touch!"
   content: |-
-    We are adding new features suprisingly fast. Don't miss a beat!<br/>
+    We are adding new features surprisingly fast. Don't miss a beat!<br/>
   button:
     enable: true
     label: "Subscribe for product updates"
