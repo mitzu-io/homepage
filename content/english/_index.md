@@ -55,7 +55,7 @@ intro_video:
   enable: true
   title: "See Mitzu in action"
   content: "Take a tour of Mitzu (beta)."
-  video_url: "https://www.youtube.com/embed/jxgXPcLsUSo"
+  video_url: "https://www.youtube.com/embed/0Hq004Xhy_E"
   video_thumbnail: "images/video-thumbnail.png"
 
 ######################### Service #####################
